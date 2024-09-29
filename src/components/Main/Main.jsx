@@ -80,7 +80,7 @@ const Main = () => {
                     </div> 
                     </div>
                     <p className='bottom-info'>
-                        Gemini may display inaccryte infi, incoding about people, so double-check its response. Your privacy and Gemini Apps 
+                        Ited may display inaccryte infi, incoding about people, so double-check its response. Your privacy and Ited Apps 
                     </p>
 
                     
