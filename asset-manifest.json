@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.1ca3520a.css",
-    "main.js": "/static/js/main.21e8238c.js",
-    "static/js/453.736e5def.chunk.js": "/static/js/453.736e5def.chunk.js",
-    "static/media/user_icon.png": "/static/media/user_icon.8819483ee7d653116bf2.png",
-    "static/media/gallery_icon.png": "/static/media/gallery_icon.1da1416be560b7741007.png",
-    "index.html": "/index.html",
-    "main.1ca3520a.css.map": "/static/css/main.1ca3520a.css.map",
-    "main.21e8238c.js.map": "/static/js/main.21e8238c.js.map",
-    "453.736e5def.chunk.js.map": "/static/js/453.736e5def.chunk.js.map"
+    "main.css": "/-Build-Google-Gemini-2.0-Using-React-JS-and-Gemini-API/static/css/main.be9b7b3a.css",
+    "main.js": "/-Build-Google-Gemini-2.0-Using-React-JS-and-Gemini-API/static/js/main.c46047ae.js",
+    "static/js/453.736e5def.chunk.js": "/-Build-Google-Gemini-2.0-Using-React-JS-and-Gemini-API/static/js/453.736e5def.chunk.js",
+    "static/media/user_icon.png": "/-Build-Google-Gemini-2.0-Using-React-JS-and-Gemini-API/static/media/user_icon.8819483ee7d653116bf2.png",
+    "static/media/gallery_icon.png": "/-Build-Google-Gemini-2.0-Using-React-JS-and-Gemini-API/static/media/gallery_icon.1da1416be560b7741007.png",
+    "index.html": "/-Build-Google-Gemini-2.0-Using-React-JS-and-Gemini-API/index.html",
+    "main.be9b7b3a.css.map": "/-Build-Google-Gemini-2.0-Using-React-JS-and-Gemini-API/static/css/main.be9b7b3a.css.map",
+    "main.c46047ae.js.map": "/-Build-Google-Gemini-2.0-Using-React-JS-and-Gemini-API/static/js/main.c46047ae.js.map",
+    "453.736e5def.chunk.js.map": "/-Build-Google-Gemini-2.0-Using-React-JS-and-Gemini-API/static/js/453.736e5def.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1ca3520a.css",
-    "static/js/main.21e8238c.js"
+    "static/css/main.be9b7b3a.css",
+    "static/js/main.c46047ae.js"
   ]
 }
