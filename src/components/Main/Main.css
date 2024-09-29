@@ -1,9 +1,9 @@
 .main{
     flex: 1;
     min-height: 100vh;
-    padding-bottom: 15vh;
+    /* padding-bottom: 15vh; */
     position: relative;
-
+      
    }
 
    .main .nav{
@@ -25,11 +25,12 @@
     margin: auto;
    }
    .main .greet{
-    margin: 50px 0px;
+    margin: 40px 0px;
     font-size: 56px;
     color: #c4c7c5;
     font-weight: 500;
-    padding: 20px;
+    /* padding: 20px; */
+    padding: 10px;
    }
    .main .greet span{
     background: -webkit-linear-gradient(16deg, #4b90ff, #ff5546);
@@ -40,10 +41,12 @@
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
     gap: 15px;
-    padding: 20px;
+    padding: 10px;
+    /* padding: 20px; */
    }
    .main .card{
-    height: 200px;
+    height: 170px;
+    /* height: 200px; */
     padding: 15px;
     background-color: #f0f4f9;
     border-radius: 10px;
@@ -176,7 +179,8 @@
         width: 150px;
     }
     .card-last{
-        margin-bottom: 20px;
+        margin-bottom: 120px;
+        /* margin-bottom: 20px; */
     }
     .main-bottom img{
         width: 20px;
