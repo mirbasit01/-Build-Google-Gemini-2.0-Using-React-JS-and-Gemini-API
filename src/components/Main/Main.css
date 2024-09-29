@@ -43,6 +43,7 @@
     gap: 15px;
     padding: 10px;
     /* padding: 20px; */
+    margin-top: -15px;
    }
    .main .card{
     height: 170px;
