@@ -36,7 +36,7 @@ const Main = () => {
                     <p>Brainstorm team bonding activiting for our work reetreat</p>
                     <img src={assets.message_icon} alt="" />
                 </div>
-                <div className="card">
+                <div className="card card-last">
                     
                     <p>Improvee the readabillity of the following code</p>
                     <img src={assets.code_icon} alt="" />

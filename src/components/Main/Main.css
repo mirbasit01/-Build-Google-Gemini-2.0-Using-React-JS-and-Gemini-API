@@ -175,6 +175,9 @@
         flex: none;
         width: 150px;
     }
+    .card-last{
+        margin-bottom: 20px;
+    }
     .main-bottom img{
         width: 20px;
 
