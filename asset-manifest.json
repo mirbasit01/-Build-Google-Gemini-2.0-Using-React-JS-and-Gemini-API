@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/-Build-Google-Gemini-2.0-Using-React-JS-and-Gemini-API/static/css/main.f0f514d0.css",
-    "main.js": "/-Build-Google-Gemini-2.0-Using-React-JS-and-Gemini-API/static/js/main.0b19b4e4.js",
+    "main.js": "/-Build-Google-Gemini-2.0-Using-React-JS-and-Gemini-API/static/js/main.a131302a.js",
     "static/js/453.736e5def.chunk.js": "/-Build-Google-Gemini-2.0-Using-React-JS-and-Gemini-API/static/js/453.736e5def.chunk.js",
     "static/media/user_icon.png": "/-Build-Google-Gemini-2.0-Using-React-JS-and-Gemini-API/static/media/user_icon.8819483ee7d653116bf2.png",
     "static/media/gallery_icon.png": "/-Build-Google-Gemini-2.0-Using-React-JS-and-Gemini-API/static/media/gallery_icon.1da1416be560b7741007.png",
     "index.html": "/-Build-Google-Gemini-2.0-Using-React-JS-and-Gemini-API/index.html",
     "main.f0f514d0.css.map": "/-Build-Google-Gemini-2.0-Using-React-JS-and-Gemini-API/static/css/main.f0f514d0.css.map",
-    "main.0b19b4e4.js.map": "/-Build-Google-Gemini-2.0-Using-React-JS-and-Gemini-API/static/js/main.0b19b4e4.js.map",
+    "main.a131302a.js.map": "/-Build-Google-Gemini-2.0-Using-React-JS-and-Gemini-API/static/js/main.a131302a.js.map",
     "453.736e5def.chunk.js.map": "/-Build-Google-Gemini-2.0-Using-React-JS-and-Gemini-API/static/js/453.736e5def.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f0f514d0.css",
-    "static/js/main.0b19b4e4.js"
+    "static/js/main.a131302a.js"
   ]
 }
