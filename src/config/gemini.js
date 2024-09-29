@@ -45,7 +45,8 @@ const {
   
     const result = await chatSession.sendMessage(prompt);
     console.log(result.response.text());
-    // return response.text();
+    // Correcting the return to use result instead of undefined 'response'
+    return result.response.text();
   }
   
   export default run;
